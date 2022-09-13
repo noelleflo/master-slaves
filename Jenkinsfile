@@ -19,7 +19,7 @@ pipeline {
                 }
             }
         }
-        stage('systemcheck-carine1'){
+        stage('systemcheck-noelle1'){
             parallel{
                 stage('parallel-2'){
                     steps{
